@@ -31,9 +31,9 @@ Os eventos do tipo PushEvent deveria mostrar o nome do repositório e a mensagem
 Os CreateEvents deveria ser mostrado apenas a mensagem "Sem mensagem de commit".
 - No repositório, além de mostrar o nome do repostório e link, também deveria mostrar:
 
-◽Quantidades de fork;
+◽Quantidade de fork;
 
-◽ Qunatidades de estrelas;
+◽ Quatidade de estrelas;
 
 ◽ Quantidade de watchers;
 
